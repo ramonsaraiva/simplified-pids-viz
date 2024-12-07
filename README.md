@@ -3,7 +3,7 @@
 Simple application for visualizing simplified PID parameters from blackbox logs.
 Sliders are most likely not very accurate for values -> slider predictions in simplified mode 0.
 
-![program](samples/program.jpg)
+![program](assets/program.jpg)
 
 ## Usage
 
@@ -15,4 +15,4 @@ Sliders are most likely not very accurate for values -> slider predictions in si
 
 ### Releases
 
-Check the [releases](https://github.com/ramonsaraiva/simplified-pids-viz/releases) page for precompiled binaries.
+Check the [releases](https://github.com/ramonsaraiva/simplified-pids-viz/releases) page for precompiled binaries.asssets
