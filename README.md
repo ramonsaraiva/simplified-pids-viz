@@ -15,4 +15,4 @@ Sliders are most likely not very accurate for values -> slider predictions in si
 
 ### Releases
 
-Check the [releases](https://github.com/ramonsaraiva/simplified-pids-viz/releases) page for precompiled binaries.asssets
+Check the [releases](https://github.com/ramonsaraiva/simplified-pids-viz/releases) page for precompiled binaries.
